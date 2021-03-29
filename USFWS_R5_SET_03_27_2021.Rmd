@@ -168,7 +168,7 @@ source("./R_source/computeTrendsSET.R")
 source("./R_source/computeTrendsMH.R")
 
 #register Google Maps API key
-register_google(key="AIzaSyDerv2JQubJ_Dg8_RKBZCeyo5zqsM5USw0")
+register_google(key="YOUR GOOGLE API KEY")
 
 })
 ```
